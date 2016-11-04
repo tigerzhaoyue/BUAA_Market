@@ -1,0 +1,73 @@
+A:link {
+	COLOR: #990000;
+	TEXT-DECORATION: none
+}
+A:visited {
+	COLOR: #990000; TEXT-DECORATION: none
+}
+A:active {
+	COLOR: #990000; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #000000
+}
+//网页链接属性设置
+body {
+	margin-top: 0px;
+}
+
+td,th {
+	FONT-SIZE:12px;
+	COLOR: #000000;
+}
+.buttoncss {
+    font-family: "Tahoma", "宋体";
+    font-size: 9pt; color: #003399;
+    border: 1px #fff solid;
+    color:006699;
+    BORDER-BOTTOM: #93bee2 1px solid; 
+    BORDER-LEFT: #93bee2 1px solid; 
+    BORDER-RIGHT: #93bee2 1px solid; 
+    BORDER-TOP: #93bee2 1px solid;
+    background-color: #ccc;
+    CURSOR: hand;
+    font-style: normal ;
+}
+.inputcss {  
+    font-size: 9pt; 
+    color: #003399; 
+    font-family: "宋体"; 
+    font-style: normal; 	
+    border-color: #93BEE2 #93BEE2 #93BEE2 #93BEE2 ; 
+    border: 1px #93BEE2 solid; 
+}
+.inputcssnull {  
+    font-size: 9pt; 
+    color: #003399; 
+    font-family: "宋体"; 
+    font-style: normal; 	
+    border: 0px #93BEE2 solid; 
+}
+.scrollbar{
+   SCROLLBAR-FACE-COLOR: #FFDD22; 
+   FONT-SIZE: 9pt; 
+   SCROLLBAR-HIGHLIGHT-COLOR: #69BC2C; 
+   SCROLLBAR-SHADOW-COLOR: #69BC2C; 
+   SCROLLBAR-3DLIGHT-COLOR: #69BC2C; 
+   SCROLLBAR-ARROW-COLOR: #ffffff; 
+   SCROLLBAR-TRACK-COLOR: #69BC2C;
+   SCROLLBAR-DARKSHADOW-COLOR: #69BC2C
+
+ }
+.scrollbar{
+   SCROLLBAR-FACE-COLOR: #FFDD22; 
+   FONT-SIZE: 9pt; 
+   SCROLLBAR-HIGHLIGHT-COLOR: #69BC2C; 
+   SCROLLBAR-SHADOW-COLOR: #69BC2C; 
+   SCROLLBAR-3DLIGHT-COLOR: #69BC2C; 
+   SCROLLBAR-ARROW-COLOR: #ffffff; 
+   SCROLLBAR-TRACK-COLOR: #69BC2C;
+   SCROLLBAR-DARKSHADOW-COLOR: #69BC2C
+
+ }
+//网页表单对象的样式设置
