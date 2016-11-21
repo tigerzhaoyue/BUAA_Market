@@ -60,12 +60,6 @@
           </table>
             <table width="212" border="0" cellpadding="0" cellspacing="0" id="spgl" style="display:">
               <tr>
-                <td height="20" background="images/default_10.gif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                  <a href="addgoods.php" target="main">增加商品</a></td>
-              </tr>
-              <tr>
-                <td height="22" background="images/default_10.gif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                  <a href="editgoods.php" target="main">修改商品</a></td>
-              </tr>
-              <tr>
                 <td height="22" background="images/default_10.gif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                  <a href="showleibie.php" target="main">类别管理</a></td>
               </tr>
               <tr>
@@ -95,9 +89,6 @@
             </table>
             <table width="212" border="0" cellpadding="0" cellspacing="0" id="ddgl" style="display:">
               <tr>
-                <td height="22" background="images/default_10.gif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="lookdd.php" target="main">编辑订单</a></td>
-              </tr>
-              <tr>
                 <td height="26" background="images/default_10.gif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="finddd.php" target="main">查询订单</a></td>
               </tr>
             </table>
@@ -113,9 +104,6 @@
               <tr background="images/default_10.gif">
                 <td height="22" background="images/default_10.gif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                
                   <a href="addgonggao.php " target="main">发布公告</a></td>
-              </tr>
-              <tr>
-                <td height="26" background="images/default_10.gif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="editpinglun.php " target="main">管理</a><a href="editpinglun.php " target="main">评价</a></td>
               </tr>
 			<tr><td height="100" >&nbsp;</td>
 			</tr>

@@ -22,7 +22,7 @@
           </div></td>
           <td width="13" height="584" background="images/bg_line.gif"><div align="center"></div></td>
           <td width="778" height="584" bgcolor="#FFFFFF" id="mn"><div align="center">
-              <IFRAME frameBorder=0 id=main name=main scrolling=yes src="lookdd.php" 
+              <IFRAME frameBorder=0 id=main name=main scrolling=yes src="edituser.php" 
       style="HEIGHT: 100%; VISIBILITY: inherit; WIDTH: 778px; Z-INDEX: 1"> </IFRAME>
           </div></td>
         </tr>

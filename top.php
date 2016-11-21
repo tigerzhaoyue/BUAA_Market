@@ -39,7 +39,7 @@
           </tr>
           <tr>
             <td>&nbsp;</td>
-            <td><a href="index.php">首 页</a> 丨 <a href="usercenter.php">用户中心</a> 丨 <a href="gouwuche.php">购物车</a> 丨 <a href="finddd.php">交易记录</a> 丨 <a href="addgoods.php">卖卖卖</a> 丨 <a href="showall.php">买买买</a>   </td> 
+            <td><a href="index.php">首 页</a> 丨 <a href="usercenter.php">用户中心</a> 丨 <a href="gouwuche.php">购物车</a> 丨 <a href="finddd.php">购买订单</a> 丨 <a href="finddd2.php">出售订单</a>丨 <a href="addgoods.php">卖卖卖</a> 丨 <a href="showall.php">买买买</a>   </td> 
           </tr>
         </tbody>
       </table></td>

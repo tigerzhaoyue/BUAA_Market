@@ -69,7 +69,6 @@
                       <?php
 			    $total=0;
 			    $array=explode("@",$_SESSION['producelist']);
-				$arrayquatity=explode("@",$_SESSION['quatity']);
 				 while(list($name,$value)=each($_POST)){
 					  for($i=0;$i<count($array)-1;$i++){
 					    if(($array[$i])==$name){
@@ -77,7 +76,6 @@
 						}
 					}
 				}
-			    $_SESSION['quatity']=implode("@",$arrayquatity);
 				
 				for($i=0;$i<count($array)-1;$i++){ 
 				   $id=$array[$i];

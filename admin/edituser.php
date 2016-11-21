@@ -55,11 +55,12 @@
 			
 			}
 			 
-             $sql1=$conn->query("SELECT * FROM user  ORDER BY regtime desc limit ".($page-1)*$pagesize.",$pagesize ");
+             $sql1=$conn->query("SELECT * FROM user  ORDER BY id desc limit ".($page-1)*$pagesize.",$pagesize ");
             
 	   
 	   ?>
 	   <tr>
+          <td width="93" height="20" bgcolor="#FFFFFF"><div align="center">用户ID</div></td>
           <td width="224" height="20" bgcolor="#FFFFFF"><div align="center">用户名</div></td>
           <td width="93" bgcolor="#FFFFFF"><div align="center">用户昵称</div></td>
           <td width="79" bgcolor="#FFFFFF"><div align="center">删除</div></td>
@@ -71,6 +72,7 @@
 		     {
 	   ?>
 	   <tr>
+          <td height="20" bgcolor="#FFFFFF"><div align="center"><?php echo $info1['id'];?></div></td>
           <td height="20" bgcolor="#FFFFFF"><div align="center"><?php echo $info1['name'];?></div></td>
           <td height="20" bgcolor="#FFFFFF"><div align="center">
 		  <?php
