@@ -7,7 +7,7 @@ A web application. Developed with php, MySQL, html/css, js, etc. Apache is used.
 * For users, you can browse other users' products or upload your own.
 
 ## Screenshot：
-#### administrator potal：
+#### administrator portal：
 ![enter image description here](https://github.com/tigerzhaoyue/BUAA_Market/blob/master/adminview.JPG)
 
 #### homepage：
